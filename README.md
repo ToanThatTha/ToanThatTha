@@ -1,6 +1,9 @@
 ### Hi there 👋
 ToanZzz | I'm a student at Vietnam-Korea University.
 I am currently studying software engineering.
+Studied programming languages such as C++ and Java.
+😄: Travelling, playing sports, sleepping,...
+
 
 <!--
 **ToanThatTha/ToanThatTha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
