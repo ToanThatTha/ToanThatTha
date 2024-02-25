@@ -1,5 +1,6 @@
 ### Hi there 👋
-ToanZzz | I'm a student at Vietnam-Korea University
+ToanZzz | I'm a student at Vietnam-Korea University.
+I am currently studying software engineering.
 
 <!--
 **ToanThatTha/ToanThatTha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
